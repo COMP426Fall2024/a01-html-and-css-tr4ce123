@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'TitleFont';
+    src: url('/fonts/IMFeDPsc28P.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #919191;
+    font-family: TitleFont;
+}
+
+.toolbar {
+    background-color: rgb(39, 38, 38);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.page-links {
+    display: flex;
+    list-style: none;
+}
+
+.page-links li {
+    margin-right: 20px;
+}
+
+.page-links li:last-child {
+    margin-right: 20px;
+}
+
+.page-links li a {
+    text-decoration: none;
+    color: #a28834;
+    font-size: 18px;
+    transition: color 0.3s ease-in-out;
+}
+
+.page-links li a:hover{
+    color: white;
+}
+
+.title {
+    margin-left: 20px;
+    color: #a28834;
+}
+
+.header-container h1 {
+    display: flex;
+    justify-content: center;
+}
