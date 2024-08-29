@@ -3,7 +3,8 @@
 
 In this assignment, we will create a set of HTML pages that are styled using CSS.
 
-These pages should describe a mythological character or mythological story. The term "mythological" can be broadly interpreted and can be from any culture or time period (Greek, Roman, Aztek, Norse, Asian) or even a very loose interpretation as in describing the "mythological" 2022 Final 4 game between UNC and Duke. The content subject is up to you. 
+These pages should describe a mythological character or mythological story. The term "mythological" can be broadly interpreted and can be from any culture or time period (Greek, Roman, Aztek, Norse, Asian) or even a very loos 
+e interpretation as in describing the "mythological" 2022 Final 4 game between UNC and Duke. The content subject is up to you. 
 
 ## 1. Making a Simple Website
 
@@ -86,6 +87,6 @@ Using CSS frameworks like Bootstrap, Bulma, etc. counts as "incorporating code o
 
 Fill out the following information (edit this ReadMe):
 
-First and Last Name: [Your first and last name]
+First and Last Name: Gregory Glasby
 
 Deployed Website URL: [Your deployed website URL]
