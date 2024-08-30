@@ -89,4 +89,4 @@ Fill out the following information (edit this ReadMe):
 
 First and Last Name: Gregory Glasby
 
-Deployed Website URL: [Your deployed website URL]
+Deployed Website URL: https://comp426fall2024.github.io/a01-html-and-css-tr4ce123/
