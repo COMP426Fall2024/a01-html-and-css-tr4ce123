@@ -3,7 +3,8 @@
 
 In this assignment, we will create a set of HTML pages that are styled using CSS.
 
-These pages should describe a mythological character or mythological story. The term "mythological" can be broadly interpreted and can be from any culture or time period (Greek, Roman, Aztek, Norse, Asian) or even a very loose interpretation as in describing the "mythological" 2022 Final 4 game between UNC and Duke. The content subject is up to you. 
+These pages should describe a mythological character or mythological story. The term "mythological" can be broadly interpreted and can be from any culture or time period (Greek, Roman, Aztek, Norse, Asian) or even a very loos 
+e interpretation as in describing the "mythological" 2022 Final 4 game between UNC and Duke. The content subject is up to you. 
 
 ## 1. Making a Simple Website
 
@@ -69,13 +70,12 @@ You will get 5 points for completing your reviews plus the average of the review
 
 Once you are done with your webpage, please follow the following instructions to deploy it to GitHub pages: 
 
-1. Create a local branch off of your main branch called `gh-pages`. 
-2. Push said branch to the GitHub by running `git push -u origin gh-pages`
-3. Go to the `Pages` configuration tab, as instructed by the [GitHub website.](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch).
-4. When choosing the branch for deploying, please choose the `gh-pages` branch you just deployed, and choose the `/root` folder. 
-5. And after a few minutes, you should see your website live! The link should follow the format: `https://comp426spring2024.github.io/a1-YOUR_REPO`. 
+1. Push your changes to GitHub
+3. Go to `Settings` and select the `Pages` configuration tab, as instructed by the [GitHub website.](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch).
+4. Under `Build and Deployment` and `Branch`, please choose the `main` branch, and choose the `/root` folder. 
+5. And after a few minutes, you should see your website live! The link should follow the format: `https://comp426spring2024.github.io/a1-YOUR_REPO`.
 
-Please, do note that if you make changes to your `main` branch after deploying your `gh-pages` branch, you will have to merge your `main` into your `gh-pages` branch for the website to reflect thew updates.
+Pushing changes to your main branch will cause the contents of the site to automatically update. However, it may take a few minutes to do so (no need to generate a new link).
 
 ### 3. Turning In The Assignment
 
@@ -85,4 +85,8 @@ Fill out the [attribution attestation form for A1](https://docs.google.com/forms
 
 Using CSS frameworks like Bootstrap, Bulma, etc. counts as "incorporating code or content found on-line".
 
+Fill out the following information (edit this ReadMe):
 
+First and Last Name: Gregory Glasby
+
+Deployed Website URL: https://comp426fall2024.github.io/a01-html-and-css-tr4ce123/
