@@ -190,3 +190,20 @@ table {
   tr:hover {
     background-color: #a2883457
   }
+
+
+.music {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    justify-content: space-between; 
+    border-radius: 10px;
+    background-color: rgb(21, 21, 21, 0.7);
+    padding: 10px;
+    width: 90%;
+}
+
+.music-content {
+    width: 50%;
+    margin: auto;
+}
