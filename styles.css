@@ -16,7 +16,7 @@ body {
     background-position: center; 
 }
 
-body h1, h2 {
+body h1 {
     color: #a28834;
 }
 
@@ -27,6 +27,19 @@ body p {
 a {
     color: #a28834;
 }
+
+h2 {
+    font-size: 2rem; 
+    font-weight: bold; 
+    color: #a28834; 
+}
+
+h3 {
+    font-size: 1.5rem; 
+    font-weight: bold; 
+    color: #a28834; 
+}
+
 
 
 .toolbar {
@@ -66,6 +79,9 @@ a {
     color: #a28834;
 }
 
+#fandom-link {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
 
 .content {
